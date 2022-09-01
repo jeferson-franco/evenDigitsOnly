@@ -1,0 +1,20 @@
+{
+  "name": "evendigitsonly",
+  "version": "1.0.0",
+  "description": "Check if all digits of the given integer are even.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/evenDigitsOnly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/evenDigitsOnly/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/evenDigitsOnly#readme"
+}
